@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000956292490",
+    "project_id": "test-53dc8",
+    "storage_bucket": "test-53dc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000956292490:android:431efb638a5a25fb156c73",
+        "android_client_info": {
+          "package_name": "com.example.baivolley"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWUguL8pEyNQnBloUTWNJ8d3F2S-5bNns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

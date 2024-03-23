@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BaiVolley</string>
+    <string name="facebook">facebook</string>
+    <string name="google">google</string>
+    <string name="are_you_new_user_register">Are you new user register ?</string>
+    <string name="notification">notification</string>
+    <string name="voice_call">voice_call</string>
+    <string name="video_call">video_call</string>
+    <string name="name">name</string>
+    <string name="email">email</string>
+    <string name="t_t_t_t_tpassword">password</string>
+    <string name="forget_your_password_recovery_it">forget your password recovery it</string>
+    <string name="create_naccount">create account\n</string>
+</resources>
